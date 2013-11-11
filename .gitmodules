@@ -43,3 +43,6 @@
 [submodule "vim/bundle/vim-peepopen"]
 	path = vim/bundle/vim-peepopen
 	url = https://github.com/shemerey/vim-peepopen.git
+[submodule "vim/bundle/vim-pathogen"]
+	path = vim/bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
